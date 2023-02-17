@@ -5,7 +5,7 @@ Hi 👋, I'm Andrew!
 <br/>
 <br/>
 I'm a backend developer working with the Django framework.<br/>
-My passion is developing solutions on the server side for application features.<br/>
+My passion is developing simple server side solutions for application features.<br/>
 I am currently learning about different AWS resources.<br/> 
 </p>
 
