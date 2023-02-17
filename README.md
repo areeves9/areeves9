@@ -4,9 +4,9 @@
 Hi 👋, I'm Andrew! 
 <br/>
 <br/>
-I'm a backend developer with a remote first company working on a Django project serving an international market.
-My passion is working with the python lanaguge to create simple solutions for server side problems in web development.
-I also work with Javascript to create dynamic components for user interfaces.
+I'm a backend developer working with the Django framework.<br/>
+My passion is developing solutions on the server side for application features.<br/>
+I am currently learning about different AWS resources.<br/> 
 </p>
 
 <!-- - 🔭 I’m currently working on [Canvas](https://github.com/areeves9/canvas)
