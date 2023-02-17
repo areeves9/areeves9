@@ -9,13 +9,13 @@ My passion is working with the python lanaguge to create simple solutions for se
 I also work with Javascript to create dynamic components for user interfaces.
 </p>
 
-- 🔭 I’m currently working on [Canvas](https://github.com/areeves9/canvas)
+<!-- - 🔭 I’m currently working on [Canvas](https://github.com/areeves9/canvas)
 
 - 🌱 I’m currently learning **Celery, DRF, Docker, AWS**
 
-- 💬 Ask me about **Python, Django, Javascript**
+- 💬 Ask me about **Python, Django, Javascript** -->
 
-- 📫 How to reach me **areeves9@icloud.com**
+<!-- - 📫 How to reach me **** -->
 
 <h3 align="left">Skills</h3>
 <hr/>
