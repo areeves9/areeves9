@@ -1,2 +1,2 @@
-**Interests** | Biotech • Infrastructure • Geospatial • APIs • ML + Geospatial
+**Interests** | Biotech • Infrastructure • Geospatial • APIs • ML
 **Working with**: `Cantera`, `MCP`, `Mistral LLM`, `ChromaDB`, `FastAPI`, `Django`, `AWS`
